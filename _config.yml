@@ -1,7 +1,7 @@
 
-title: "Kathryn Schuler"
-author: "Kathryn Schuler"
-description: "University of Pennsylvania"
+title: "Danielle Stevens"
+author: "Danielle Stevens"
+description: ""
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -23,9 +23,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:kathryn.schuler@gmail.com"}
-  - {title: Github, icon: github, url: "https://github.com/kschuler"}
-  - {title: Twitter, icon: twitter, url: "https://twitter.com/KathrynSchuler"}
+  - {title: Mail, icon: envelope, url: "mailto:stevensdr99@gmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/simplydani99"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/simplydani99"}
 
 
 remote_theme: niklasbuschmann/contrast@v2.11
