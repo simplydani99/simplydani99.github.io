@@ -17,7 +17,7 @@ show_sidebar: false        # show a sidebar instead of the usual header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: About}
-  - {url: "/Danielle R Stevens_CV.pdf", title: CV}
+#  - {url: "/Danielle R Stevens_CV.pdf", title: CV}
   - {url: "https://scholar.google.com/citations?user=Jb9O26AAAAAJ&hl=en", title: Publications}
   - {file: "fun.md", title: Fun}
 
