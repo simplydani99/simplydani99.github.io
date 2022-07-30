@@ -1,2 +1,2 @@
-# kschuler.github.io
+# simplydani99.github.io
 My personal website
