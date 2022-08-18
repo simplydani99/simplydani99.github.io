@@ -13,5 +13,4 @@ Danielle's research broadly focuses on perinatal influences of maternal and infa
 - Nutrition-environment interactions
 - Heterogeneity in fetal growth
 - Developmental Origins of Health and Disease (DOHaD)
-- Childhood obesity and metabolic syndrome
 - Epidemiologic methods
