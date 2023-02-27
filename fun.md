@@ -7,7 +7,7 @@ I'm a [firstgen](https://www.google.com/search?q=first+generation+college+studen
 
 In 2021, I was funded as an [ODS Research Scholar](https://ods.od.nih.gov/Research/Scholars.aspx) for my project examining fatty acids and infant adiposity and atopic outcomes. In 2022, I submitted a K99/R00 award to investigate gestational phthalate and phthalate alternative exposures associated with early life cardiometabolic development. I am happy to chat about these or any of my other training experiences.
 
-Mentoring is a passion of mine. I would not be here today without guidance of an amazing and diverse group of mentors, and I strive to pass that on to the next generation of scientists.
+I am passionate about mentoring & teaching. I would not be here today without guidance of an amazing and diverse group of teachers and mentors, and I strive to pass that on to the next generation of scientists.
 
-In my spare time, I run long-distance and hang out with my awesome partner and our two dogs. Some maybe-fun facts: I tried to renovate an old ambulance into a camper van (key word: tried), I was a part of unicycle club in school, I owned 21 rabbits at one point, and I've gone white water rafting on the Nile River.
+In my spare time, I run long-distance and hang out with my awesome partner and our two dogs. Some maybe-fun facts: I tried to renovate an old ambulance into a camper van (key word: tried), I was a part of unicycle club in school, and I've gone white water rafting on the Nile River.
 
