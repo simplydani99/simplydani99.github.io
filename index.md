@@ -19,7 +19,7 @@ Danielle's research broadly focuses on the causes and consequences of respirator
 - Cardiometabolic health and asthma in children and gestational parents
    * Etiology and prognosis
    * Biomarkers and other indicators of these outcomes in infancy
-- Fetal and pediatric growth abd development
+- Fetal and pediatric growth and development
    * Growth and longitudinal modeling
    * Identifying heterogeneity in growth
    * Assessment and analysis of body composition and other more precise body measures (e.g., fat mass, liver size)
