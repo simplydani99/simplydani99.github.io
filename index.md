@@ -9,24 +9,22 @@ Danielle received her PhD in Epidemiology from the [Department of Public Health 
 
 Danielle's research broadly focuses on the causes and consequences of respiratory and cardiometabolic disorders. She is particularly interested in pregnancy as a period of increased susceptibility to environmental chemical exposures influencing growth and cardiometabolic outcomes across the lifecourse. Specific areas of interest include:
 - Chemical environmental exposures
-   o Persistent and nonpersistent chemical exposures found in everday personal care and consumer products
-   o Exposure assessment methods and bias
+   * Persistent and nonpersistent chemical exposures found in everday personal care and consumer products
+   * Exposure assessment methods and bias
 - Nutrition and physical activity
-   o Fatty acids such as omega-3s found in seafood, oils, and nuts
-   o Physical activity
-   o Co-occurence and interactions with the environmental chemical exposures
-   o Exposure assessment methods and bias
+   * Fatty acids such as omega-3s found in seafood, oils, and nuts
+   * Co-occurence and interactions with the environmental chemical exposures
+   * Exposure assessment methods and bias
 - Developmental Origins of Health and Disease
-- Cardiometabolic health and asthma during pregnancy and childhood
-   o Etiology and prognosis
-   o Biomarkers and other indicators of these outcomes in infancy
+- Cardiometabolic health and asthma in children and gestational parent
+   * Etiology and prognosis
+   * Biomarkers and other indicators of these outcomes in infancy
 - Fetal and pediatric growth abd development
-   o Growth and longitudinal modeling
-   o Identifying heterogeneity in growth
-   o Assessment and analysis of body composition and other more precise body measures (e.g., fat mass, liver size)
+   * Growth and longitudinal modeling
+   * Identifying heterogeneity in growth
+   * Assessment and analysis of body composition and other more precise body measures (e.g., fat mass, liver size)
 - Environmental justice abd health disparities
 - Epidemiologic methods
-   o Mixtures modeling
-   o Causal inference
-   o Mediation
-   o Bias
+   * Mixtures modeling
+   * Causal inference
+   * Bias
