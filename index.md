@@ -16,7 +16,7 @@ Danielle's research broadly focuses on the causes and consequences of respirator
    * Co-occurence and interactions with the environmental chemical exposures
    * Exposure assessment methods and bias
 - Developmental Origins of Health and Disease
-- Cardiometabolic health and asthma in children and gestational parent
+- Cardiometabolic health and asthma in children and gestational parents
    * Etiology and prognosis
    * Biomarkers and other indicators of these outcomes in infancy
 - Fetal and pediatric growth abd development
