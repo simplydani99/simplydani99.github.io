@@ -23,7 +23,7 @@ Danielle's research broadly focuses on the causes and consequences of respirator
    * Growth and longitudinal modeling
    * Identifying heterogeneity in growth
    * Assessment and analysis of body composition and other more precise body measures (e.g., fat mass, liver size)
-- Environmental justice abd health disparities
+- Environmental justice and health disparities
 - Epidemiologic methods
    * Mixtures modeling
    * Causal inference
