@@ -11,6 +11,16 @@ In 2021, Danielle was funded as an [ODS Research Scholar](https://ods.od.nih.gov
 
 Danielle aims to conduct rigorous and impactful research on the causes and consequences of pediatric adverse health outcomes including cardiometabolic and respiratory disorders. She is particularly interested in early life as a period of increased susceptibility to environmental and nutritional exposures influencing health across the lifecourse.
 
+
+
+
+
+![Figure of link between prior training and future research](https://github.com/simplydani99/simplydani99.github.io/blob/01d002179f1d78a49205b9e4c88991167f5b5e2a/Figure%20of%20Career%20Trajectory_website.png)
+
+
+
+
+
 Specific areas of research and training include:
 - Chemical and non-chemical environmental exposures
    * Persistent and nonpersistent chemical exposures found in everyday personal care and consumer products
@@ -48,4 +58,3 @@ To ensure a thorough and thoughtful implementation, underlying this research is 
    * Bias analysis
    * Growth and longitudinal modeling
    * Geospatial analysis
- 
