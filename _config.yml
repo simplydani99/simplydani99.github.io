@@ -6,7 +6,6 @@ permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
-baseurl: /simplydani99
 
 # Layout
 show_social: true         # show footer
