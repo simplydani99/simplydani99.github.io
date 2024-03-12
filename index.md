@@ -13,7 +13,7 @@ Danielle aims to conduct rigorous and impactful research on the causes and conse
 
 
 
-![Figure of link between training and research](./images/career.png "Figure of link between training and research")
+![Figure of link between training and research](https://raw.githubusercontent.com/simplydani99/simplydani99.github.io/main/images/career.png "Figure of link between training and research")
 
 
 Specific areas of research and training include:
