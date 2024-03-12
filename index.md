@@ -15,7 +15,7 @@ Danielle aims to conduct rigorous and impactful research on the causes and conse
 
 
 
-![Figure of link between prior training and future research](https://github.com/simplydani99/simplydani99.github.io/blob/daea8b03893eb30cdea6a571655728730588f3ee/docs/assets/careertrajectory.PNG)
+![Figure of link between prior training and future research](https://github.com/simplydani99/simplydani99.github.io/blob/bcb8280193530d2c7e16829eee1ec5e7fcc5b68f/docs/assets/images/careerfig.png)
 
 
 
