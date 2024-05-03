@@ -18,7 +18,7 @@ show_sidebar: false        # show a sidebar instead of the usual header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: About}
   - {url: "/Danielle R Stevens_CV for website.pdf", title: CV}
-  - {url: "/Causal Inference Overview_2023.pdf", title: Lecture Slides}
+  - {url: "/Causal Inference Overview.pdf", title: Lecture Slides}
   - {url: "https://scholar.google.com/citations?user=Jb9O26AAAAAJ&hl=en", title: Publications}
   - {file: "fun.md", title: Fun}
 
