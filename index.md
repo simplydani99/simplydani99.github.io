@@ -9,13 +9,23 @@ Danielle received her PhD in Epidemiology from the [Department of Public Health 
 
 In 2021, Danielle was funded as an [ODS Research Scholar](https://ods.od.nih.gov/Research/Scholars.aspx) for a project examining fatty acids and infant adiposity, respiratory, and atopic outcomes. In 2023, Danielle was awarded a [K99/R00](https://grants.nih.gov/grants/guide/pa-files/PA-20-188.html) to investigate [gestational phthalate and phthalate alternative exposures associated with early life cardiometabolic development](https://factor.niehs.nih.gov/2023/7/beyond-the-bench/pathway-to-independence-awards).
 
-Danielle aims to conduct rigorous and impactful research on the causes and consequences of pediatric adverse health outcomes including cardiometabolic and respiratory disorders. She is particularly interested in early life as a period of increased susceptibility to environmental and nutritional exposures influencing health across the lifecourse.
-
-
-<img src="https://raw.githubusercontent.com/simplydani99/simplydani99.github.io/main/images/career.png" width="=400" height="300">
-
+Danielle aims to conduct rigorous and impactful research on the causes and consequences of adverse health outcomes including cardiometabolic and respiratory disorders. She is particularly interested in pregnancy and early life as a period of increased susceptibility to environmental and nutritional exposures influencing growth, cardiometabolic, and respiratory health across the lifecourse.
 
 Specific areas of research and training include:
+- Pregnancy and early life (infancy through adolescence)
+   * Fetal and pediatric growth and development
+   * Pregnancy physiology 
+   * Adverse pregnancy outcomes such as gestational diabetes and hypertensive disorders of pregnancy 
+   * Imaging and biomarker considerations during pregnancy
+   * Early indicators and etiology of disease in children
+   * Developmental Origins of Health and Disease
+   * Women's and children's health
+- Cardiometabolic, respiratory, and atopic outcomes 
+   * Imaging, biomarkers, and other indicators of disease or subclinical disease
+   * Assessment and analysis of anthropometry, body composition, and anatomy
+   * Growth and longitudinal modeling
+   * Etiology, prognosis, and comorbidities
+   * Health disparities
 - Chemical and non-chemical environmental exposures
    * Persistent and nonpersistent chemical exposures found in everyday personal care and consumer products
    * Non-chemical exposures including the built environment, air pollution, and climate change
@@ -30,16 +40,6 @@ Specific areas of research and training include:
    * Collection and analysis of movement data
    * Co-occurence and interactions with the environment
    * Exposure assessment and bias
-- Developmental Origins of Health and Disease
-   * Prenatal through childhood (early life) as a period of susceptibility
-   * Early indicators and etiology of disease
-- Cardiometabolic, respiratory, and atopic outcomes 
-   * Identification of risk factors, particularly those which may be intervened upon 
-   * Imaging, biomarkers, and other indicators of disease or subclinical disease
-   * Assessment and analysis of body composition and anatomy
-   * Growth and longitudinal modeling
-   * Etiology, prognosis, and comorbidities
-   * Health disparities
 
 To ensure a thorough and thoughtful implementation, underlying this research is training in and a focus on:
 - Exposure and health disparities
