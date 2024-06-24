@@ -13,7 +13,7 @@ I'm a [firstgen](https://www.google.com/search?q=first+generation+college+studen
       
 I am passionate about my research and career. It may seem naive, but I truly believe that my research can help improve health across the lifecourse and in future generations. I am dedicated to enhancing the health of all persons but especially more vulnerable populations and those overlooked in research studies (e.g., pregnant persons, infants, children, rural populations). I would not be here today without the guidance of an amazing and diverse group of teachers and mentors, and I strive to pass that on to the next generation of scientists. Teaching and mentoring students and trainees is one of my favorite parts of my job.
 
-In my spare time, I run long-distance, garden, and hang out with my awesome partner and our two dogs. Some fun facts: I renovated an old ambulance into a camper van, I can ride a unicycle, and I've rafted on the Nile River.
+In my spare time, I run long-distance, garden, and hang out with my awesome partner and our two dogs. Some fun facts: I renovated an old ambulance into a camper van, I can ride a unicycle, I've rafted on the Nile River, and I am learning how to be a beekeeper.
 
 
 <img src="https://raw.githubusercontent.com/simplydani99/simplydani99.github.io/main/images/nichd.png" width="=200" height="200">  
