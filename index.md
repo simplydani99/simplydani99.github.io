@@ -30,7 +30,7 @@ Specific areas of research and training include:
    * Persistent and nonpersistent chemical exposures found in everyday personal care and consumer products
    * Non-chemical exposures including the built environment, air pollution, and climate change
    * -Omics, mixtures, and complex high-dimensional exposure data
-   * Environmental justice and exposure disparities
+   * Exposure disparities
    * Co-occurence and interactions with nutritional status
    * Exposure assessment and bias
 - Nutritional exposures including diet and physical activity
